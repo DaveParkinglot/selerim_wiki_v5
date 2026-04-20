@@ -4,22 +4,22 @@
 // put your custom CSS here!
 
 /* -- Morrowind Modding Wiki SCSS Modules for cooler things-- */
-@use "./custom/infobox-callout.scss";
+/* @use "./custom/infobox-callout.scss";
 @use "./custom/image-adjustments.scss";
 @use "./custom/callout-adjustments.scss";
 @use "./custom/column-callout.scss";
-@use "./custom/caption-callout.scss";
+@use "./custom/caption-callout.scss"; */
 
 // put your custom CSS here!
 
 // expands to match wide monitors better (I think)
-@media all and ($desktop) {
+/*  @media all and ($desktop) {
   body div#quartz-root.page div#quartz-body {
     width: min(100%, calc(#{map.get($breakpoints, desktop)} + 700px));
     max-width: min(100%, calc(#{map.get($breakpoints, desktop)} + 700px));
     padding: 0 auto;
   }
-}
+} */
 
 /* Force borders on Quartz Callout Infoboxes */
 .callout[data-callout="infobox"] {
