@@ -254,14 +254,14 @@ plugins:
       priority: 15
       display: all
   - source: github:Requiae/quartz-leaflet-bases-plugin
-    enabled: true
+    enabled: false
     options:
       enableCopyTool: false
   - source:
       name: quartz-themes
       repo: github:saberzero1/quartz-themes
       subdir: plugin
-    enabled: true
+    enabled: false
     options:
       theme: its-theme
       variation: ttrpg-dnd
