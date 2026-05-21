@@ -264,7 +264,7 @@ plugins:
     enabled: true
     options:
       theme: its-theme
-      variation: ttrpg-dnd
+      variation: drowned
 layout:
   groups:
     toolbar:
