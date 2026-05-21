@@ -8,15 +8,15 @@ Author: Jordan
 
 <br>
 
-> [!cards|3 bg-purple]
->  **[[World Overview]]**
-> [![[selerim_planet_view.png|profile+medium cover center]]](World%20Overview)
-> 
-> **[[Selerim Timeline|Timeline]]**
-> [![[timeline_icon.png|profile+medium cover center]]](Selerim%20Timeline)
-> 
+> [!cards|3 background-color-black no-title]
+> **[[World Overview]]**
+> [![[z_assets/selerim_planet_view.png|banner+small cover center]]](World%20Overview)
+>
+> **[[Selerim Timeline|World Timeline]]**
+> [![[z_assets/timeline_icon.png|banner+small cover center]]](Selerim%20Timeline)
+>
 > **[[Adventure Log]]**
- > [![[adventurelog.png|profile+medium cover center]]](Adventure%20Log)
+> [![[z_assets/adventurelog.png|banner+small cover center]]](Adventure%20Log)
 
 
 ### Interactive Map of the [[Inhabitable Lands]]:
